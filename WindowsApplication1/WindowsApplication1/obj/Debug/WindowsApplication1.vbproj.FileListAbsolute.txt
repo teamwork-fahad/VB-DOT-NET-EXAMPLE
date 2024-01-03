@@ -1,0 +1,10 @@
+D:\Anjali\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\Anjali\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Anjali\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Anjali\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\Anjali\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\Anjali\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\Anjali\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\Anjali\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\Anjali\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\Anjali\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
