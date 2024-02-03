@@ -1,0 +1,16 @@
+D:\Fahad Sir\VB APP\DICE_GAME\DICE_GAME\bin\Debug\net8.0-windows\DICE_GAME.exe
+D:\Fahad Sir\VB APP\DICE_GAME\DICE_GAME\bin\Debug\net8.0-windows\DICE_GAME.deps.json
+D:\Fahad Sir\VB APP\DICE_GAME\DICE_GAME\bin\Debug\net8.0-windows\DICE_GAME.runtimeconfig.json
+D:\Fahad Sir\VB APP\DICE_GAME\DICE_GAME\bin\Debug\net8.0-windows\DICE_GAME.dll
+D:\Fahad Sir\VB APP\DICE_GAME\DICE_GAME\bin\Debug\net8.0-windows\DICE_GAME.pdb
+D:\Fahad Sir\VB APP\DICE_GAME\DICE_GAME\obj\Debug\net8.0-windows\DICE_GAME.Form1.resources
+D:\Fahad Sir\VB APP\DICE_GAME\DICE_GAME\obj\Debug\net8.0-windows\DICE_GAME.vbproj.GenerateResource.cache
+D:\Fahad Sir\VB APP\DICE_GAME\DICE_GAME\obj\Debug\net8.0-windows\DICE_GAME.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fahad Sir\VB APP\DICE_GAME\DICE_GAME\obj\Debug\net8.0-windows\DICE_GAME.AssemblyInfoInputs.cache
+D:\Fahad Sir\VB APP\DICE_GAME\DICE_GAME\obj\Debug\net8.0-windows\DICE_GAME.AssemblyInfo.vb
+D:\Fahad Sir\VB APP\DICE_GAME\DICE_GAME\obj\Debug\net8.0-windows\DICE_GAME.vbproj.CoreCompileInputs.cache
+D:\Fahad Sir\VB APP\DICE_GAME\DICE_GAME\obj\Debug\net8.0-windows\DICE_GAME.dll
+D:\Fahad Sir\VB APP\DICE_GAME\DICE_GAME\obj\Debug\net8.0-windows\refint\DICE_GAME.dll
+D:\Fahad Sir\VB APP\DICE_GAME\DICE_GAME\obj\Debug\net8.0-windows\DICE_GAME.pdb
+D:\Fahad Sir\VB APP\DICE_GAME\DICE_GAME\obj\Debug\net8.0-windows\DICE_GAME.genruntimeconfig.cache
+D:\Fahad Sir\VB APP\DICE_GAME\DICE_GAME\obj\Debug\net8.0-windows\ref\DICE_GAME.dll
